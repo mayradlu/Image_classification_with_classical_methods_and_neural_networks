@@ -36,7 +36,7 @@ Fashion-MNIST:
 
 * SVM with Radial Basis Function (RBF) Kernel: An SVM with RBF kernel was implemented to capture non-linear relationships in the data, calculating accuracy and recall per class.
 
-*Multi-Layer Perceptron (MLP): An MLP was used, adjusting the architecture to find the best configuration of layers and neurons. Accuracy and recall per class were evaluated, highlighting performance across the three datasets.
+* Multi-Layer Perceptron (MLP): An MLP was used, adjusting the architecture to find the best configuration of layers and neurons. Accuracy and recall per class were evaluated, highlighting performance across the three datasets.
 
 ## Results
 
@@ -46,14 +46,14 @@ Fashion-MNIST:
 </p>
 
 
-*Satellite Images: The MLP again achieved the highest accuracy (0.884)
+* Satellite Images: The MLP again achieved the highest accuracy (0.884)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05900a1e-1559-4147-9414-9fd2d3539ba5" alt="imagen" width="400">
 </p>
 
 
 
-*Custom Images: All models achieved accuracies above 0.95, with the MLP standing out for its perfect recall in several classes.
+* Custom Images: All models achieved accuracies above 0.95, with the MLP standing out for its perfect recall in several classes.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d00a4ceb-59a9-4cda-b1bf-82db7ff440b3" alt="imagen" width="400">
 </p>
