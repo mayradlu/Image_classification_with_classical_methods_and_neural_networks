@@ -3,7 +3,7 @@
 This project explores image classification using three different algorithms: Linear SVM, SVM with Radial Basis Function (RBF) Kernel, and a Multi-Layer Perceptron (MLP). The classification was performed on three distinct datasets, allowing us to evaluate and compare the performance of each model in different contexts and types of data.
 
 ## Data Description 
-Fashion-MNIST:
+**Fashion-MNIST**
 * Size: 70,000 images (60,000 for training and 10,000 for testing).
 * Description: Grayscale images, 28x28 pixels, representing 10 classes of clothing items (shirt, pants, sweater, dress, coat, shoes, t-shirt, sneakers, bag, boots).
 <p align="center">
